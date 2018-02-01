@@ -10,6 +10,16 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const FriendlyErrorsPlugin = require('friendly-errors-webpack-plugin')
 const portfinder = require('portfinder')
 
+/* 本地模拟后台数据 */
+const express = require('express')
+const app = express()
+const apiData = require('../data.json')
+const seller = apiData.seller
+const goods = apiData.goods
+const ratings = apiData.ratings
+const apiRouter = express.Router()
+app.use('/api', apiRouter)
+
 const HOST = process.env.HOST
 const PORT = process.env.PORT && Number(process.env.PORT)
 
@@ -42,6 +52,28 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     quiet: true, // necessary for FriendlyErrorsPlugin
     watchOptions: {
       poll: config.dev.poll,
+    },
+
+    /* 这个函数是用来本地模拟后台数据用的 */
+    before(app){
+      app.get('/api/seller', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: seller
+        })
+      })
+      app.get('/api/goods', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: goods
+        })
+      })
+      app.get('/api/ratings', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: ratings
+        })
+      })
     }
   },
   plugins: [
