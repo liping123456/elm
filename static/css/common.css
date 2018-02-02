@@ -6,11 +6,11 @@
     -webkit-tap-highlight-color: transparent;
 }
 body {
-    font-size:14px;
+    font-size:0.22rem;
     font-family: "Microsoft YaHei", Arial, sans-serif;
 }
 a {
-    color: #333;
+    color: #727272;
     text-decoration: none;
 }
 a:hover {
@@ -24,3 +24,25 @@ input {
     outline: none;
     -webkit-appearance: none;
 }
+img{
+    border:0;
+}
+.home{
+    width: 100%;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: block;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+  clear: both;
+}
+

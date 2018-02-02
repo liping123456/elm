@@ -17,6 +17,8 @@ const apiData = require('../data.json')
 const seller = apiData.seller
 const goods = apiData.goods
 const ratings = apiData.ratings
+const delicious = apiData.delicious
+const find = apiData.find
 const apiRouter = express.Router()
 app.use('/api', apiRouter)
 
@@ -72,6 +74,18 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         res.json({
           errno: 0,
           data: ratings
+        })
+      })
+      app.get('/api/delicious', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: delicious
+        })
+      })
+      app.get('/api/find', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: find
         })
       })
     }

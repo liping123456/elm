@@ -5,10 +5,22 @@
      -->
     <router-view></router-view>
     <div class="tabbar">
-      <router-link to="/home">外卖</router-link>
-      <router-link to="/find">发现</router-link>
-      <router-link to="/cart">订单</router-link>
-      <router-link to="/mine">我的</router-link>
+        <router-link to="/home" class="home">
+            <img src="./components/component1/img/images/icon_03.gif" alt="外卖">
+            <h5>外卖</h5>
+        </router-link>
+        <router-link to="/find" class="find">
+            <img src="./components/component1/img/images/icon_05.gif" alt="发现">
+            <h5>发现</h5>
+        </router-link>
+        <router-link to="/cart" class="cart">
+            <img src="./components/component1/img/images/icon_07.gif" alt="订单">
+            <h5>订单</h5>
+        </router-link>
+        <router-link to="/mine" class="mine">
+            <img src="./components/component1/img/images/icon_09.gif" alt="我的">
+            <h5>我的</h5>
+        </router-link>
     </div>
   </div>
 </template>
@@ -27,17 +39,27 @@ export default {
 </script>
 
 <style>
+
 #app .tabbar{
   position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
-  height: 1rem;
-  background-color: pink;
+  height: 0.5rem;
   display: flex;
   align-items: center;
   justify-content: space-around;
   font-size: 0.18rem;
+}
+.tabbar .home,
+.tabbar .find,
+.tabbar .cart,
+.tabbar .mine{
+  width: 25%;
+  text-align: center;
+}
+.tabbar img{
+  width: 0.18rem;
 }
 
 
