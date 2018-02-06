@@ -2,6 +2,7 @@
     <div class="home">
         <!-- 头部 -->
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div class="header">
             <p class="address">上地信息产业基地</p>
             <div class="search">
@@ -11,6 +12,8 @@
         </div>
         
 =======
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
         <div class="header clearfix">
             <p class="address">上地信息产业基地</p>
             <form>
@@ -20,6 +23,9 @@
                 <img src="https://fuss10.elemecdn.com/0/cf/e16c1687a4ea84674d5b531623934png.png?imageMogr/format/webp/thumbnail/!750x210r/gravity/Center/crop/750x210/" alt="">
             </div>
         </div>
+<<<<<<< HEAD
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
+=======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
         <!--分类  -->
         <ul class="kind clearfix">
@@ -38,6 +44,7 @@
         <!-- 推介商家 -->
         <div id="buseller">— ——推介商家— ——</div>
 <<<<<<< HEAD
+<<<<<<< HEAD
         
         <div class="">
 
@@ -49,6 +56,8 @@
 
 
 =======
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
          <div class="sellerLists clearfix">
             <div class="sellerList clearfix">
                 <div class="pic fl" v-for="(item, index) in recommend" :key="item.id">
@@ -88,6 +97,9 @@
                 </div> 
             </div>
         </div>
+<<<<<<< HEAD
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
+=======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
     </div>
 </template>
@@ -98,6 +110,7 @@ export default {
     data () {
         return {
             delicious:[],
+<<<<<<< HEAD
 <<<<<<< HEAD
             seller:[],
             find:[]
@@ -124,6 +137,8 @@ export default {
     console.log(this.seller)
 =======
 =======
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
             recommend:[],
             isShow:false
         };
@@ -134,6 +149,9 @@ export default {
             this.isShow =!this.isShow
         }
     },
+<<<<<<< HEAD
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
+=======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
     created(){
         this.$http.get('/api/seller')
@@ -153,6 +171,7 @@ export default {
         .then((res)=>{
             this.delicious = res.data.data
 <<<<<<< HEAD
+<<<<<<< HEAD
             console.log(res.data.data)
         }) 
          this.$http.get('/api/find')
@@ -165,6 +184,8 @@ export default {
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
             // console.log(res.data.data)
         }) 
         this.$http.get('/api/recommend')
@@ -172,12 +193,16 @@ export default {
             this.recommend = res.data.data
             // console.log(res.data.data)
         }) 
+<<<<<<< HEAD
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
+=======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
     }
 }
 </script>
     
 <style lang="css" scoped>
+<<<<<<< HEAD
 <<<<<<< HEAD
 .home img{
     width: 100%;
@@ -201,6 +226,8 @@ export default {
     width: 3.53rem;
     height: 0.35rem;
 =======
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 .header .address{
     font-size: 0.17rem;
     font-weight: 700;
@@ -220,6 +247,9 @@ export default {
 .header form input{
     width: 3.5rem;
     height:0.35rem;
+<<<<<<< HEAD
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
+=======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
     text-align: center;
     font-size: 0.15rem;  
@@ -227,6 +257,12 @@ export default {
     background-color: #fff;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.header img{
+    width: 100%;
+}
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 =======
 .header img{
     width: 100%;
@@ -264,9 +300,12 @@ export default {
     text-align: center;
     font-size: 0.14rem;
 <<<<<<< HEAD
+<<<<<<< HEAD
     color:#000;
 }
 =======
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 }
 /* 商家列表部分 */
 .sellerLists{
@@ -332,6 +371,9 @@ export default {
 
 
 
+<<<<<<< HEAD
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
+=======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 
 

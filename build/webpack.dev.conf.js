@@ -21,6 +21,7 @@ const delicious = apiData.delicious
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 const recommend = apiData.recommend
 const find = apiData.find
 const foods = apiData.foods
@@ -30,6 +31,10 @@ const find = apiData.find
 =======
 const find = apiData.find
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
+const recommend = apiData.recommend
+const find = apiData.find
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 =======
 const recommend = apiData.recommend
 const find = apiData.find
@@ -106,12 +111,15 @@ const devWebpackConfig = merge(baseWebpackConfig, {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       app.get('/api/foods', (req, res)=>{
         res.json({
           errno: 0,
           data: foods
         })
       })
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 =======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
       app.get('/api/recommend', (req, res)=>{
@@ -121,10 +129,13 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         })
       })
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 =======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
     }

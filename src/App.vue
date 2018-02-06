@@ -47,11 +47,14 @@ export default {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: pink;
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 =======
 >>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
   display: flex;
@@ -69,6 +72,7 @@ export default {
 }
 .tabbar img{
   width: 0.15rem;
+<<<<<<< HEAD
 }
 .tabbar .home,
 .tabbar .find,
@@ -79,6 +83,8 @@ export default {
 }
 .tabbar img{
   width: 0.18rem;
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 }
 
 
