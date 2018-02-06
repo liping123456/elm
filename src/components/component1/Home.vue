@@ -92,6 +92,9 @@ export default {
             this.find = res.data.data
             console.log(res.data.data)
         }) 
+<<<<<<< HEAD
+>>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
     }
 }

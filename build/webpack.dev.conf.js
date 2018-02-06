@@ -19,9 +19,13 @@ const goods = apiData.goods
 const ratings = apiData.ratings
 const delicious = apiData.delicious
 <<<<<<< HEAD
+<<<<<<< HEAD
 const recommend = apiData.recommend
 const find = apiData.find
 const foods = apiData.foods
+=======
+const find = apiData.find
+>>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 const find = apiData.find
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
@@ -95,6 +99,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         })
       })
 <<<<<<< HEAD
+<<<<<<< HEAD
       app.get('/api/foods', (req, res)=>{
         res.json({
           errno: 0,
@@ -107,6 +112,8 @@ const devWebpackConfig = merge(baseWebpackConfig, {
           data: recommend
         })
       })
+=======
+>>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
     }

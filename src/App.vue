@@ -45,7 +45,10 @@ export default {
   bottom: 0;
   height: 0.5rem;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: pink;
+=======
+>>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
   display: flex;

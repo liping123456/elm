@@ -1,23 +1,10 @@
-
-*{
-	margin:0;
-	padding:0;
-	box-sizing:border-box;
-   
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
 }
-<<<<<<< HEAD:src/reset.css
-
-
-
-
-a{	
-	text-decoration:none;
-	/*color:#707070;*/
-}
-ul,ol{
-	list-style:none;
-=======
 body {
     font-size:0.22rem;
     font-family: "Microsoft YaHei", Arial, sans-serif;
@@ -25,23 +12,18 @@ body {
 a {
     color: #727272;
     text-decoration: none;
->>>>>>> a0675826edb3203044981ca61e61688bc0d20548:static/css/common.css
 }
-img{
-	display:block;
-	border:none;
+a:hover {
+    text-decoration: none;
 }
-.clearFloat::after{
-	content:"";
-	display:block;
-	clear:both;
+ul,ol,li {
+    list-style: none;
 }
-.clearFloat{
-	zoom:1;
+input {
+    border: none;
+    outline: none;
+    -webkit-appearance: none;
 }
-<<<<<<< HEAD:src/reset.css
-
-=======
 img{
     border:0;
 }
@@ -63,5 +45,4 @@ img{
   visibility: hidden;
   clear: both;
 }
->>>>>>> a0675826edb3203044981ca61e61688bc0d20548:static/css/common.css
 
