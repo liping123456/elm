@@ -20,6 +20,7 @@ const ratings = apiData.ratings
 const delicious = apiData.delicious
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 const recommend = apiData.recommend
 const find = apiData.find
 const foods = apiData.foods
@@ -29,6 +30,10 @@ const find = apiData.find
 =======
 const find = apiData.find
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
+const recommend = apiData.recommend
+const find = apiData.find
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
 const apiRouter = express.Router()
 app.use('/api', apiRouter)
 
@@ -100,22 +105,28 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       })
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       app.get('/api/foods', (req, res)=>{
         res.json({
           errno: 0,
           data: foods
         })
       })
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
       app.get('/api/recommend', (req, res)=>{
         res.json({
           errno: 0,
           data: recommend
         })
       })
+<<<<<<< HEAD
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
     }
   },
   plugins: [

@@ -46,15 +46,29 @@ export default {
   height: 0.5rem;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: pink;
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
 =======
 >>>>>>> a0675826edb3203044981ca61e61688bc0d20548
+=======
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd
   display: flex;
   align-items: center;
   justify-content: space-around;
   font-size: 0.18rem;
+  background: #fff;
+}
+.tabbar .home,
+.tabbar .find,
+.tabbar .cart,
+.tabbar .mine{
+  width: 25%;
+  text-align: center;
+}
+.tabbar img{
+  width: 0.15rem;
 }
 .tabbar .home,
 .tabbar .find,

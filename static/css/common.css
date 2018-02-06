@@ -5,8 +5,13 @@
     -webkit-box-sizing: border-box;
     -webkit-tap-highlight-color: transparent;
 }
+<<<<<<< HEAD:static/css/common.css
 body {
     font-size:0.22rem;
+=======
+html body {
+    font-size:0.12rem;
+>>>>>>> fdc3bf365503d5f1599ff1abc4d842dff21d1bfd:static/css/common.css
     font-family: "Microsoft YaHei", Arial, sans-serif;
 }
 a {
