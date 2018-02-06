@@ -1,0 +1,67 @@
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+   
+
+}
+<<<<<<< HEAD:src/reset.css
+
+
+
+
+a{	
+	text-decoration:none;
+	/*color:#707070;*/
+}
+ul,ol{
+	list-style:none;
+=======
+body {
+    font-size:0.22rem;
+    font-family: "Microsoft YaHei", Arial, sans-serif;
+}
+a {
+    color: #727272;
+    text-decoration: none;
+>>>>>>> a0675826edb3203044981ca61e61688bc0d20548:static/css/common.css
+}
+img{
+	display:block;
+	border:none;
+}
+.clearFloat::after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.clearFloat{
+	zoom:1;
+}
+<<<<<<< HEAD:src/reset.css
+
+=======
+img{
+    border:0;
+}
+.home{
+    width: 100%;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: block;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+  clear: both;
+}
+>>>>>>> a0675826edb3203044981ca61e61688bc0d20548:static/css/common.css
+
