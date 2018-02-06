@@ -1570,5 +1570,112 @@
         "ubt_stats_id": 0
       }]
     }
+  ],
+  "recommend":[
+    {
+      "name": "田老师红烧肉",
+      "give":"￥12元起送",
+      "recent_order_num":"月销221单",
+      "description": "新用户下单立减17元",
+      "icon_name": "首",
+      "id": 1,
+      "avatar":"http://fuss10.elemecdn.com/3/e8/c95b048d61e4e02040db09ba0e4b1jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥6元",
+      "type": 103,
+      "range":"1.86km",
+      "time":"56分钟",
+      "rating":"4.6",
+      "last_minute":"家装特价套餐"
+    },
+     {
+      "name": "黄焖鸡米饭",
+      "give":"￥12元起送",
+      "recent_order_num":"月销1221单",
+      "description": "新用户下单立减17元",
+      "icon_name": "首",
+      "id": 2,
+      "avatar":"http://fuss10.elemecdn.com/d/a4/b973c64c6a7fd1029a4feaeca6a17jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥5元",
+      "type": 103,
+      "range":"1.86km",
+      "time":"50分钟",
+      "rating":"4.7",
+      "last_minute":"家装特价套餐"
+    },
+     {
+      "name": "金手勺",
+      "give":"￥10元起送",
+      "recent_order_num":"月销2621单",
+      "description": "新用户下单立减17元",
+      "icon_name": "首",
+      "id": 3,
+      "avatar":"http://fuss10.elemecdn.com/1/56/c1ae61912776f5a9865b2b0a52383png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥7元",
+      "type": 103,
+      "range":"1.90km",
+      "time":"45分钟",
+      "rating":"4.7",
+      "last_minute":"家装特价套餐"
+    },
+     {
+      "name": "宏状元",
+      "give":"￥12元起送",
+      "recent_order_num":"月销3421单",
+      "description": "新用户下单立减17元",
+      "icon_name": "首",
+      "id": 4,
+      "avatar":"http://fuss10.elemecdn.com/e/71/4425085ae836c1dd7b8722db85572png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥3元",
+      "type": 103,
+      "range":"1.76km",
+      "time":"54分钟",
+      "rating":"4.1",
+      "last_minute":"家装特价套餐"
+    },
+     {
+      "name": "KFC",
+      "give":"￥12元起送",
+      "recent_order_num":"月销3221单",
+      "description": "新用户下单立减16元",
+      "icon_name": "首",
+      "id": 5,
+      "avatar":"http://fuss10.elemecdn.com/1/24/b3fbf584f92303939ddd084c58ca1png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥0元",
+      "type": 103,
+      "range":"1.86km",
+      "time":"54分钟",
+      "rating":"5.6",
+      "last_minute":"家装特价套餐"
+    },
+     {
+      "name": "张亮麻辣烫",
+      "give":"￥0元起送",
+      "recent_order_num":"月销321单",
+      "description": "新用户下单立减17元",
+      "icon_name": "首",
+      "id": 6,
+      "avatar":"http://fuss10.elemecdn.com/0/46/ee233f76bf7fa98dec4c0dd980ee4png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥5元",
+      "type": 103,
+      "range":"1.46km",
+      "time":"46分钟",
+      "rating":"4.8",
+      "last_minute":"家装特价套餐"
+    },
+     {
+      "name": "纸上烤肉",
+      "give":"￥12元起送",
+      "recent_order_num":"月销561单",
+      "description": "新用户下单立减17元",
+      "icon_name": "首",
+      "id": 7,
+      "avatar":"http://fuss10.elemecdn.com/5/8b/cacbb68487799793af66aaa91b391png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/", 
+      "tip": "配送费￥7元",
+      "type": 103,
+      "range":"1.56km",
+      "time":"56分钟",
+      "rating":"5.6",
+      "last_minute":"家装特价套餐"
+    }
   ]
 }

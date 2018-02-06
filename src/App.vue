@@ -50,6 +50,7 @@ export default {
   align-items: center;
   justify-content: space-around;
   font-size: 0.18rem;
+  background: #fff;
 }
 .tabbar .home,
 .tabbar .find,
@@ -59,7 +60,7 @@ export default {
   text-align: center;
 }
 .tabbar img{
-  width: 0.18rem;
+  width: 0.15rem;
 }
 
 

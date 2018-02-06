@@ -5,8 +5,8 @@
     -webkit-box-sizing: border-box;
     -webkit-tap-highlight-color: transparent;
 }
-body {
-    font-size:0.22rem;
+html body {
+    font-size:0.12rem;
     font-family: "Microsoft YaHei", Arial, sans-serif;
 }
 a {
