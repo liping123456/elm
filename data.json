@@ -1375,5 +1375,772 @@
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     }
+  ],
+  "find":[
+    {
+      "one": [{
+        "block_index": 1,
+        "url": "https://fuss10.elemecdn.com/8/38/9c9aea0e856149083d84af3444b78jpeg.jpeg?imageMogr/format/webp/",
+        "id": 6,
+        "main_pic_hash": "8389c9aea0e856149083d84af3444b78jpeg",
+        "sub_pic_hash": "",
+        "subtitle": "0元好物在这里",
+        "title": "金币商城",
+        "title_color": "#ff9900",
+        "ubt_stats_id": 0
+      }, {
+        "block_index": 1,
+        "url": "https://fuss10.elemecdn.com/f/85/2bb180f2052c33cfec3852ef2bfccjpeg.jpeg?imageMogr/format/webp/",
+        "id": 400073,
+        "main_pic_hash": "f852bb180f2052c33cfec3852ef2bfccjpeg",
+        "sub_pic_hash": "",
+        "subtitle": "礼包福利领不停",
+        "title": "有红包快抢",
+        "title_color": "#cc3300",
+        "ubt_stats_id": 0
+      }, {
+        "block_index": 1,
+        "url": "https://fuss10.elemecdn.com/2/36/b784087aff96a97f4e5183d0d784fjpeg.jpeg?imageMogr/format/webp/",
+        "id": 400012,
+        "main_pic_hash": "236b784087aff96a97f4e5183d0d784fjpeg",
+        "sub_pic_hash": "",
+        "subtitle": "最夯外卖指南",
+        "title": "必吃爆料",
+        "title_color": "#f5785d",
+        "ubt_stats_id": 0
+      }, {
+        "block_index": 1,
+        "url": "https://fuss10.elemecdn.com/6/76/8d42eef97ff4c1c2b671085358541jpeg.jpeg?imageMogr/format/webp/",
+        "id": 400013,
+        "main_pic_hash": "6768d42eef97ff4c1c2b671085358541jpeg",
+        "sub_pic_hash": "",
+        "subtitle": "5元现金拿不停",
+        "title": "推荐有奖",
+        "title_color": "#1ba9e1",
+        "ubt_stats_id": 0
+      }, {
+        "block_index": 1,
+        "url": "https://fuss10.elemecdn.com/5/10/2351e989d4171479ba0d7b5c06053jpeg.jpeg?imageMogr/format/webp/",
+        "id": 400041,
+        "hash": "",
+        "sub_pic_hash": "",
+        "subtitle": "领取口碑好券",
+        "title": "周边优惠",
+        "title_color": "#ed6660",
+        "ubt_stats_id": 0
+      }, {
+        "block_index": 1,
+        "url": "https://fuss10.elemecdn.com/3/cc/a45d2b9d7d09bbc49b40d4e626093jpeg.jpeg?imageMogr/format/webp/",
+        "id": 400065,
+        "main_pic_hash": "3cca45d2b9d7d09bbc49b40d4e626093jpeg",
+        "sub_pic_hash": "",
+        "subtitle": "兴业银行联名卡",
+        "title": "百元红包",
+        "title_color": "#E88F28",
+        "ubt_stats_id": 0
+      }],
+      "two": [{
+        "block_index": 2,
+        "url": "https://h5.ele.me/freelunch/#/",
+        "id": 400011,
+        "main_pic_hash": "85a5e3ac248cf218a5e0a6611028dd45jpeg",
+        "sub_pic_hash": "b6d656006edcd86033a1b32b23ddea37jpeg",
+        "subtitle": "今天吃饭不要钱",
+        "title": "霸王餐",
+        "title_color": "#ff9700",
+        "ubt_stats_id": 0
+      }]
+    }
+  ],
+  "foods":[
+    {
+      "items": [
+        {
+            "food": {
+                "activities": [
+                    {
+                        "background": {
+                            "rgb_from": "FF822D",
+                            "rgb_to": "FF2A00"
+                        },
+                        "icon_color": "F07373",
+                        "icon_name": "折",
+                        "id": 0,
+                        "name": "立减优惠",
+                        "tips": "8.2折"
+                    }
+                ],
+                "cart_link": "eleme://restaurant?restaurant_id=1194075&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20714537486%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=714537486&auto_expand_cart_view=1&animation_type=1&category_id=528735733&type=0",
+                "category_id": 528735733,
+                "descriptions": "8.2折",
+                "description": "红烧肉+番茄鸡蛋",
+                "discount_activity": "",
+                "discount_rate": 0.82,
+                "food_id": 714537486,
+                "food_rate": "40人好评",
+                "icon_name": "特",
+                "id": 714537486,
+                "url": "https://fuss10.elemecdn.com/b/fe/b74aa8144f0a02f9d743b7350ea01jpeg.jpeg?imageMogr/format/webp/thumbnail/!345x345r/gravity/Center/crop/345x345/",
+                "is_new": false,
+                "month_sales": 532,
+                "name": "红烧肉+番茄鸡蛋",
+                "original_price": 22,
+                "packing_fee": 1.5,
+                "price": 18,
+                "restaurant_id": 1194075,
+                "restaurant_name": "田老师红烧肉（东城东花市店 ）",
+                "satisfy_count": 40,
+                "satisfy_rate": 95,
+                "scheme": "eleme://catering?target_food_id=714537486&restaurant_id=1194075&category_id=528735733",
+                "sku_id": "332046386163",
+                "stock": 9623
+            },
+            "restaurant": {
+                "address": "北京市东城区东花市北里中区8号楼底商",
+                "authentic_id": 3332386418498475,
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "田老师红烧肉，尝到家的味道！\n主营盖饭，种类虽“不多”，口味蛮“家常”，且配菜丰富。主菜里招牌红烧肉果然名不虚传，宫保鸡丁、卤肉饭等也都不错。出菜速度快，价格又实惠！",
+                "distance": 3242,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 6.28,
+                "float_minimum_order_amount": 20,
+                "id": 1194075,
+                "image_path": "f8ca0243ff6b05f952b127524b5bf99ajpeg",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.89781,
+                "longitude": 116.435,
+                "max_applied_quantity_per_order": -1,
+                "name": "田老师红烧肉（东城东花市店 ）",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:00/22:00"
+                ],
+                "order_lead_time": 46,
+                "phone": "13191713081 15933896331 67101882",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥6.28",
+                    "extra_fee": 1.28,
+                    "is_extra": true,
+                    "rules": [
+                        {
+                            "fee": 6.28,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥6.28"
+                },
+                "platform": 0,
+                "promotion_info": "欢迎光临，温馨提示：1、满减活动和美食活动不同享。2、饿了么每天仅前三个订单享受活动。",
+                "rating": 4.5,
+                "rating_count": 0,
+                "recent_order_num": 3206,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=1194075",
+                "status": 1,
+                "support_tags": [],
+                "supports": [],
+                "type": 0
+            }
+        },
+        {
+            "food": {
+                "activities": [
+                    {
+                        "attribute": "{\"99\": {\"1\": 50.0, \"0\": 0}, \"39\": {\"1\": 20.0, \"0\": 0}, \"59\": {\"1\": 30.0, \"0\": 0}, \"20\": {\"1\": 18.0, \"0\": 0}, \"79\": {\"1\": 40.0, \"0\": 0}}",
+                       
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 835702817,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "智能满减",
+                        "tips": "满20减18",
+                        "type": 102
+                    }
+                ],
+                "cart_link": "eleme://restaurant?restaurant_id=1102583&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20108249895%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=108249895&auto_expand_cart_view=1&animation_type=1&category_id=10622035&type=0",
+                "category_id": 10622035,
+                "descriptions": "满20减18",
+                "description": "酸菜排骨+米饭+开胃小菜",
+                "discount_activity": "满20减18",
+                "food_id": 108249895,
+                "food_rate": "135人好评",
+                "id": 108249895,
+                "url": "https://fuss10.elemecdn.com/3/48/486f9cdd9c57840341d4109232944jpeg.jpeg?imageMogr/format/webp/thumbnail/!345x345r/gravity/Center/crop/345x345",
+                "is_new": false,
+                "month_sales": 750,
+                "name": "酸菜排骨米饭套餐",
+                "packing_fee": 4,
+                "price": 29.9,
+                "restaurant_id": 1102583,
+                "restaurant_name": "小火慢炖排骨米饭(西单店)",
+                "satisfy_count": 135,
+                "satisfy_rate": 99,
+                "scheme": "eleme://catering?target_food_id=108249895&restaurant_id=1102583&category_id=10622035",
+                "sku_id": "13025598094",
+                "stock": 1520
+            },
+            "restaurant": {
+                "address": "北京市西城区西单堂子胡同9号B1层3号",
+                "authentic_id": 4322356428365083,
+                "description": "",
+                "distance": 3650,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 3.88,
+                "float_minimum_order_amount": 20,
+                "id": 1102583,
+                "image_path": "6f8c195bf48add537655b4704401e027jpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.91111,
+                "longitude": 116.37533,
+                "max_applied_quantity_per_order": -1,
+                "name": "小火慢炖排骨米饭(西单店)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:00/20:30"
+                ],
+                "order_lead_time": 46,
+                "phone": "18611778344 18600692525",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥3.88",
+                    "extra_fee": 1.38,
+                    "is_extra": true,
+                    "rules": [
+                        {
+                            "fee": 3.88,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥3.88"
+                },
+                "platform": 0,
+                "promotion_info": "亲爱的顾客  本店除排骨套餐外，其他单点均不配送，谢谢配合。",
+                "rating": 4.7,
+                "rating_count": 0,
+                "recent_order_num": 3680,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "味道超赞"
+                    },
+                    {
+                        "name": "回头客多"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=1102583",
+                "status": 1,
+                "support_tags": [],
+                "supports": [
+                    {
+                        "description": "该商户食品安全已由中国太平洋保险承保，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "two_characters_icon_name": "保险"
+                    },
+                    {
+                        "description": "该商家支持开发票，开票订单金额60元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "type": 0
+            }
+        },
+        {
+            "food": {
+                "activities": [
+                    {
+                        "background": {
+                            "rgb_from": "FF822D",
+                            "rgb_to": "FF2A00"
+                        },
+                       
+                        "icon_color": "F07373",
+                        "icon_name": "折",
+                        "id": 0,
+                        "name": "立减优惠",
+                        "tips": "5折"
+                    }
+                ],
+                "cart_link": "eleme://restaurant?restaurant_id=406894&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20731216545%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=731216545&auto_expand_cart_view=1&animation_type=1&category_id=515489969&type=0",
+                "category_id": 515489969,
+                "descriptions": "5折",
+                "description": "本州黑椒鸡排饭（大）+（八珍豆腐+海带鸡肉包+魔芋丝）x2+可乐",
+                "discount_activity": "",
+                "discount_rate": 0.5,
+                "food_id": 731216545,
+                "food_rate": "39人好评",
+                "icon_name": "折",
+                "id": 731216545,
+                "url": "https://fuss10.elemecdn.com/7/45/3cad1f1b07ee9527b4aa2c268023cjpeg.jpeg?imageMogr/format/webp/thumbnail/!345x345r/gravity/Center/crop/345x345/",
+                "is_new": false,
+                "month_sales": 258,
+                "name": "黑椒鸡排优惠套餐",
+                "original_price": 50,
+                "packing_fee": 1,
+                "price": 25,
+                "restaurant_id": 406894,
+                "restaurant_name": "吉野家(北京站店)",
+                "satisfy_count": 39,
+                "satisfy_rate": 100,
+                "scheme": "eleme://catering?target_food_id=731216545&restaurant_id=406894&category_id=515489969",
+                "sku_id": "349125742041",
+                "stock": 944
+            },
+            "restaurant": {
+                "address": "北京市东城区北京站西街1号",
+                "authentic_id": 4382326425466394,
+                "description": "欢迎光临！",
+                "distance": 2200,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 229,
+                        "name": "日韩料理"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 7,
+                "float_minimum_order_amount": 0,
+                "id": 406894,
+                "image_path": "9da99e61b6978553324d485a70c67ebapng",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.9054710503065,
+                "longitude": 116.425574118208,
+                "max_applied_quantity_per_order": -1,
+                "name": "吉野家(北京站店)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "07:00/21:30"
+                ],
+                "order_lead_time": 48,
+                "phone": "4008197197",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥7",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 7,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥7"
+                },
+                "platform": 0,
+                "promotion_info": "1.餐厅外送承诺时间45分钟。\r\n2.大份订餐（20份以上），可提前一天进行预订\r\n3.吉野家外送产品收取餐盒费，主餐产品收取1元，火锅产品收取3元\r\n4.本店使用电子票据，请您按照收银条指引自行开票，谢谢 。",
+                "rating": 4.8,
+                "rating_count": 0,
+                "recent_order_num": 939,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=406894",
+                "status": 1,
+                "support_tags": [],
+                "supports": [],
+                "type": 0
+            }
+        },
+        {
+            "food": {
+              "activities": [
+                  {
+                    "attribute": "{\"40\": {\"1\": 26.0, \"0\": 0}, \"60\": {\"1\": 40.0, \"0\": 0}, \"28\": {\"1\": 18.0, \"0\": 0}}",
+                    
+                    "icon_color": "f07373",
+                    "icon_name": "减",
+                    "id": 851921321,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "大额满减",
+                    "tips": "满28减18",
+                    "type": 102
+                  }
+               ],
+                "cart_link": "eleme://restaurant?restaurant_id=2139976&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20523555782%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=523555782&auto_expand_cart_view=1&animation_type=1&category_id=503103829&type=0",
+                "category_id": 503103829,
+                "description": "",
+                "descriptions": "满28减18",
+                "discount_activity": "",
+                "food_id": 523555782,
+                "food_rate": "75人好评",
+                "id": 523555782,
+                "url": "https://fuss10.elemecdn.com/7/45/3cad1f1b07ee9527b4aa2c268023cjpeg.jpeg?imageMogr/format/webp/thumbnail/!345x345r/gravity/Center/crop/345x345/",
+                "is_new": false,
+                "month_sales": 640,
+                "name": "老北京肉丁炸酱面",
+                "packing_fee": 1,
+                "price": 18,
+                "restaurant_id": 2139976,
+                "restaurant_name": "老北京炸酱面大王",
+                "satisfy_count": 75,
+                "satisfy_rate": 97,
+                "scheme": "eleme://catering?target_food_id=523555782&restaurant_id=2139976&category_id=503103829",
+                "sku_id": "136481120723",
+                "stock": 5924
+            },
+            "restaurant": {
+                "address": "北京市东城区东兴隆街56号1层",
+                "authentic_id": 7362336419341076,
+                "delivery_mode": {
+                    "border": "",
+                    "color": "2395FF",
+                    "gradient": {
+                        "rgb_from": "00AAFF",
+                        "rgb_to": "0085FF"
+                    },
+                    "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                    "id": 1,
+                    "is_solid": true,
+                    "text": "蜂鸟专送",
+                    "text_color": "FFFFFF"
+                },
+                "description": "",
+                "distance": 1525,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 213,
+                        "name": "米粉面馆"
+                    }
+                ],
+                "float_delivery_fee": 4.68,
+                "float_minimum_order_amount": 20,
+                "id": 2139976,
+                "image_path": "9f363479557af44b2deb93406468d6ffjpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.89704,
+                "longitude": 116.41515,
+                "max_applied_quantity_per_order": -1,
+                "name": "老北京炸酱面大王",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:00/21:00"
+                ],
+                "order_lead_time": 44,
+                "phone": "18888832952 67056705",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥4.68",
+                    "extra_fee": 0.18,
+                    "is_extra": true,
+                    "rules": [
+                        {
+                            "fee": 4.68,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥4.68"
+                },
+                "platform": 0,
+                "promotion_info": "",
+                "rating": 4.8,
+                "rating_count": 0,
+                "recent_order_num": 773,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=2139976",
+                "status": 1,
+                "support_tags": [],
+                "supports": [
+                    {
+                        "description": "该商户食品安全已由中国太平洋保险承保，食品安全有保障",
+                        "icon_color": "999999",
+                        "icon_name": "保",
+                        "id": 7,
+                        "name": "食安保",
+                        "two_characters_icon_name": "保险"
+                    }
+                ],
+                "type": 0
+            }
+        },
+        {
+            "food": {
+                "activities": [
+                    {
+                        "attribute": "{\"40\": {\"1\": 26.0, \"0\": 0}, \"60\": {\"1\": 40.0, \"0\": 0}, \"28\": {\"1\": 18.0, \"0\": 0}}",
+                        
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 851921321,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "大额满减",
+                        "tips": "满28减18",
+                        "type": 102
+                    }
+                ],
+                "cart_link": "eleme://restaurant?restaurant_id=151634807&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20624610298%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=624610298&auto_expand_cart_view=1&animation_type=1&category_id=512888777&type=0",
+                "category_id": 512888777,
+                "description": "吃惯了美利坚的奥尔良鸡，换个泰雅土著口味的，神秘的味道更令人好奇。",
+                "discount_activity": "满28减18",
+                "food_id": 624610298,
+                "descriptions": "满28减18",
+                "food_rate": "96人好评",
+                "id": 624610298,
+                "url": "https://fuss10.elemecdn.com/0/4a/b824d1e4bac879449a53c739dc582jpeg.jpeg?imageMogr/format/webp/thumbnail/!345x345r/gravity/Center/crop/345x345/",
+                "is_new": false,
+                "month_sales": 581,
+                "name": "泰雅奥尔良鸡排便当",
+                "packing_fee": 2,
+                "price": 30,
+                "restaurant_id": 151634807,
+                "restaurant_name": "台资味（北京宣武门店）",
+                "satisfy_count": 96,
+                "satisfy_rate": 100,
+                "scheme": "eleme://catering?target_food_id=624610298&restaurant_id=151634807&category_id=512888777",
+                "sku_id": "239960944789",
+                "stock": 9490
+            },
+            "restaurant": {
+                "address": "北京市西城区大栅栏街15号及后门18幢",
+                "authentic_id": 1322376420165407,
+                "description": "",
+                "distance": 1859,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 209,
+                        "name": "盖浇饭"
+                    },
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 5.18,
+                "float_minimum_order_amount": 20,
+                "id": 151634807,
+                "image_path": "3e8c95b048d61e4e02040db09ba0e4b1jpeg",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.896291,
+                "longitude": 116.396097,
+                "max_applied_quantity_per_order": -1,
+                "name": "台资味（北京宣武门店）",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:30/20:20"
+                ],
+                "order_lead_time": 39,
+                "phone": "13552956178 010-53679751",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥5.18",
+                    "extra_fee": 0.18,
+                    "is_extra": true,
+                    "rules": [
+                        {
+                            "fee": 5.18,
+                            "price": 20
+                        }
+                    ],
+                    "tips": "配送费¥5.18"
+                },
+                "platform": 0,
+                "promotion_info": "台资味菜品均来自台资味中央厨房输送，食材通过国家QS认证，让您吃出营养吃出健康。打包盒安全环保，可微波炉加热。新鲜保证，双倍奉还！",
+                "rating": 4.6,
+                "rating_count": 0,
+                "recent_order_num": 4899,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [
+                    {
+                        "name": "味道超赞"
+                    }
+                ],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=151634807",
+                "status": 1,
+                "support_tags": [],
+                "supports": [
+                    {
+                        "description": "该商家支持开发票，开票订单金额200元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "type": 0
+            }
+        },
+        {
+            "food": {
+                "activities": [
+                    {
+                        "attribute": "{\"90\": {\"1\": 20.0, \"0\": 0}, \"60\": {\"1\": 17.0, \"0\": 0}, \"30\": {\"1\": 10.0, \"0\": 0}}",
+                        
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 865019930,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "满减",
+                        "tips": "满30减10",
+                        "type": 102
+                    }
+                ],
+                "cart_link": "eleme://restaurant?restaurant_id=429172&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20753401803%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=753401803&auto_expand_cart_view=1&animation_type=1&category_id=530971109&type=0",
+                "category_id": 530971109,
+                "descriptions": "满30减10",
+                "description": "香汁排骨饭×1竹丝（乌）鸡汤×1田园彩豆×1",
+                "discount_activity": "满30减10",
+                "food_id": 753401803,
+                "food_rate": "58人好评",
+                "id": 753401803,
+                "url": "https://fuss10.elemecdn.com/6/fb/ce95a7e88f382e081b42bf02c6710jpeg.jpeg?imageMogr/format/webp/thumbnail/!345x345r/gravity/Center/crop/345x345/",
+                "is_new": false,
+                "month_sales": 561,
+                "name": "香汁排骨饭汤套餐",
+                "packing_fee": 2,
+                "price": 31.5,
+                "restaurant_id": 429172,
+                "restaurant_name": "真功夫(北京搜秀店)",
+                "satisfy_count": 58,
+                "satisfy_rate": 96,
+                "scheme": "eleme://catering?target_food_id=753401803&restaurant_id=429172&category_id=530971109",
+                "sku_id": "371843446641",
+                "stock": 7817
+            },
+            "restaurant": {
+                "address": "北京市东城区崇文门外大街40号1幢1-4房01号，1-6房01号",
+                "authentic_id": 2312366424622672,
+                "description": "欢迎光临真功夫",
+                "distance": 2256,
+                "favored": false,
+                "flavors": [
+                    {
+                        "id": 265,
+                        "name": "简餐"
+                    }
+                ],
+                "float_delivery_fee": 6,
+                "float_minimum_order_amount": 5,
+                "id": 429172,
+                "image_path": "ab3259e1b77a1d4896f20f584087a9c4jpeg",
+                "is_new": false,
+                "is_premium": true,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.902462,
+                "longitude": 116.42584,
+                "max_applied_quantity_per_order": -1,
+                "name": "真功夫(北京搜秀店)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "10:00/20:00"
+                ],
+                "order_lead_time": 49,
+                "phone": "4006927927",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥6",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 6,
+                            "price": 5
+                        }
+                    ],
+                    "tips": "配送费¥6"
+                },
+                "platform": 0,
+                "promotion_info": "欢迎光临真功夫",
+                "rating": 4.5,
+                "rating_count": 0,
+                "recent_order_num": 1854,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "recommend_reasons": [],
+                "regular_customer_count": 0,
+                "scheme": "eleme://catering?restaurant_id=429172",
+                "status": 1,
+                "support_tags": [],
+                "supports": [
+                    {
+                        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票",
+                        "two_characters_icon_name": "发票"
+                    }
+                ],
+                "type": 0
+            }
+        }
+    ],
+    "rank_id": "5cbd209c743f4d48bd0b1e29d683d8de"
+    }
   ]
 }

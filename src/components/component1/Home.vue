@@ -14,22 +14,22 @@ export default {
             seller:[]
         };
     },
-    created(){
-        this.$http.get('/api/seller')
-        .then((res)=>{
-            this.seller = res.data.data
-            console.log(res.data.data)
-        })
-        this.$http.get('/api/goods')
-        .then((res)=>{
-            // console.log(res.data.data)
-        })
-        this.$http.get('/api/ratings')
-        .then((res)=>{
-            // console.log(res.data.data)
-        })
+    // created(){
+    //     this.$http.get('/api/seller')
+    //     .then((res)=>{
+    //         this.seller = res.data.data
+    //         console.log(res.data.data)
+    //     })
+    //     this.$http.get('/api/goods')
+    //     .then((res)=>{
+    //         // console.log(res.data.data)
+    //     })
+    //     this.$http.get('/api/ratings')
+    //     .then((res)=>{
+    //         // console.log(res.data.data)
+    //     })
         
-    },
+    // },
     mounted(){
     console.log(this.seller)
     }

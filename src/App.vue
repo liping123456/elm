@@ -14,12 +14,10 @@
 </template>
 
 <script>
-
-
 export default {
   name: 'App',
   components: {
-   
+ 
   }
 }
 
@@ -32,7 +30,7 @@ export default {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 1rem;
+  height: 0.5rem;
   background-color: pink;
   display: flex;
   align-items: center;

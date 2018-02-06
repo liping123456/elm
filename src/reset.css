@@ -1,26 +1,33 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -webkit-tap-highlight-color: transparent;
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+   
+
 }
-body {
-    font-size:14px;
-    font-family: "Microsoft YaHei", Arial, sans-serif;
+
+
+
+
+a{	
+	text-decoration:none;
+	/*color:#707070;*/
 }
-a {
-    color: #333;
-    text-decoration: none;
+ul,ol{
+	list-style:none;
 }
-a:hover {
-    text-decoration: none;
+img{
+	display:block;
+	border:none;
 }
-ul,ol,li {
-    list-style: none;
+.clearFloat::after{
+	content:"";
+	display:block;
+	clear:both;
 }
-input {
-    border: none;
-    outline: none;
-    -webkit-appearance: none;
+.clearFloat{
+	zoom:1;
 }
+
+

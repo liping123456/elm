@@ -17,6 +17,10 @@ const apiData = require('../data.json')
 const seller = apiData.seller
 const goods = apiData.goods
 const ratings = apiData.ratings
+const delicious = apiData.delicious
+const recommend = apiData.recommend
+const find = apiData.find
+const foods = apiData.foods
 const apiRouter = express.Router()
 app.use('/api', apiRouter)
 
@@ -74,6 +78,30 @@ const devWebpackConfig = merge(baseWebpackConfig, {
           data: ratings
         })
       })
+      app.get('/api/delicious', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: delicious
+        })
+      })
+      app.get('/api/find', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: find
+        })
+      })
+      app.get('/api/foods', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: foods
+        })
+      })
+      app.get('/api/recommend', (req, res)=>{
+        res.json({
+          errno: 0,
+          data: recommend
+        })
+      })
     }
   },
   plugins: [
@@ -125,3 +153,4 @@ module.exports = new Promise((resolve, reject) => {
     }
   })
 })
+
